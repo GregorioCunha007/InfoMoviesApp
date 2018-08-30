@@ -1,3 +1,1 @@
-# InfoMoviesApp
-# InfoMoviesApp
-# InfoMoviesApp
+# Small app to test some new architectures. Used Android Room, AndroidViewModel and LiveData<T> with Repository pattern
